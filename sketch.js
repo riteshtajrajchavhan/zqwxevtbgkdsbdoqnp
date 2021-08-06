@@ -130,6 +130,8 @@ function setup() {
    agroup=createGroup();
 
 //song.loop();
+  
+  alert("new update has came so please update the game")
 
 }
 
